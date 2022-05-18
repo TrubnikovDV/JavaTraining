@@ -1,5 +1,5 @@
 
-package JavaTraining;
+package javaTraining;
 
 import java.text.DecimalFormat;
 

@@ -1,4 +1,4 @@
-package JavaTraining;
+package javaTraining;
 
 public class Point {
   public double xa;

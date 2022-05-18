@@ -1,4 +1,4 @@
-package JavaTraining;
+package javaTraining;
 
 public class Rectangle {
   public double a;

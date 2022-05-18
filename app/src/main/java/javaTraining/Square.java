@@ -1,4 +1,4 @@
-package JavaTraining;
+package javaTraining;
 
 public class Square {
   public double l;
